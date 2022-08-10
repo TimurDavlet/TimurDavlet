@@ -12,7 +12,7 @@
 
 <h3>Я начинающий JavaScript разработчик.</h3>
 
-- 👨‍💻 Все мои учебные проекты 👉 в моем GitHub: [[https://github.com/TimurDavlet](https://github.com/TimurDavlet)](https://github.com/TimurDavlet?tab=repositories)
+- 👨‍💻 Все мои учебные проекты 👉 в моем GitHub: [https://github.com/TimurDavlet](https://github.com/TimurDavlet?tab=repositories)
 
 - 📫 My CV: [https://cv.hexlet.io/resumes/710](https://cv.hexlet.io/resumes/710)
   
