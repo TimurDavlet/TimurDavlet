@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif" width="100"/>
 </div>
 
 <h1 align="center">Привет 👋, меня зовут Тимур!</h1>
