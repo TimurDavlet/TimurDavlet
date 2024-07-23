@@ -10,7 +10,7 @@
 
 </div>
 
-<h3>Я начинающий JavaScript разработчик.</h3>
+<h3>Я JavaScript разработчик.</h3>
 
 - 👨‍💻 Все мои учебные проекты 👉 в моем GitHub: [https://github.com/TimurDavlet](https://github.com/TimurDavlet?tab=repositories)
 
