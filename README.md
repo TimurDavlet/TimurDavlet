@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif" width="200"/>
 </div>
 
-<h1 align="center">Привет 👋, меня зовут Тимур!</h1>
+<h1 align="center">Привет 👋</h1>
 
 <div align ="center">
 
@@ -10,9 +10,9 @@
 
 </div>
 
-<h3>Я JavaScript разработчик.</h3>
+<h3>JavaScript разработчик.</h3>
 
-- 👨‍💻 Все мои учебные проекты 👉 в моем GitHub: [https://github.com/TimurDavlet](https://github.com/TimurDavlet?tab=repositories)
+- 👨‍💻 Учебные проекты 👉 в моем GitHub: [https://github.com/TimurDavlet](https://github.com/TimurDavlet?tab=repositories)
 
 - 📫 My CV: [https://cv.hexlet.io/resumes/710](https://cv.hexlet.io/resumes/710)
   
